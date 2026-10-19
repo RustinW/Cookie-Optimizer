@@ -1,0 +1,11 @@
+{
+	"Name": "Cookie Optimizer",
+	"ID": "cookie optimizer",
+	"Author": "Rustin",
+	"Description": "Full-automation optimizer: ranks every building and upgrade by payback period using the game's own CpS calculation, autobuys, banks for Lucky, and runs clicking, wrinklers, sugar lumps, minigames, the dragon and ascension.",
+	"ModVersion": 0.3,
+	"GameVersion": 2.058,
+	"Date": "02/10/2026",
+	"Dependencies": [],
+	"Disabled": 0
+}
